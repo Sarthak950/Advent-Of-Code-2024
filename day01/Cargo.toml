@@ -1,0 +1,6 @@
+[package]
+name = "advent_of_code" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["sharmasarthak05@gmail.com"]
+
+[dependencies]
